@@ -1,0 +1,5 @@
+.env
+.kubeconfig*
+*.json
+bhojpur.yaml
+bhojpur-config.yaml
