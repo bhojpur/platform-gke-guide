@@ -90,13 +90,13 @@ registry-facade-4c7tz                            2/2     Running     0          
 registry-facade-5dxfx                            2/2     Running     0          95m
 registry-facade-gxmhv                            2/2     Running     0          95m
 server-ccb459f85-8vgfn                           2/2     Running     0          95m
-ws-daemon-6qrjf                                  2/2     Running     0          95m
-ws-daemon-hslz7                                  2/2     Running     0          95m
-ws-daemon-hzw8h                                  2/2     Running     0          95m
-ws-manager-8f6bc54f4-r67kk                       1/1     Running     0          95m
-ws-manager-bridge-56d7978664-6l6ht               2/2     Running     0          95m
-ws-proxy-fbc47486d-kqdvj                         1/1     Running     0          95m
-ws-scheduler-5c5d9f998-6zxmz                     2/2     Running     0          95m
+bp-daemon-6qrjf                                  2/2     Running     0          95m
+bp-daemon-hslz7                                  2/2     Running     0          95m
+bp-daemon-hzw8h                                  2/2     Running     0          95m
+bp-manager-8f6bc54f4-r67kk                       1/1     Running     0          95m
+bp-manager-bridge-56d7978664-6l6ht               2/2     Running     0          95m
+bp-proxy-fbc47486d-kqdvj                         1/1     Running     0          95m
+bp-scheduler-5c5d9f998-6zxmz                     2/2     Running     0          95m
 
 ```
 
